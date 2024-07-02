@@ -7,10 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christakis](https://mariachris.github.io/). I received my PhD from TU Munich, where I was co-advised by [Eva Darulova](https://malyzajko.github.io/) and [Helmut Seidl](https://www.cs.cit.tum.de/pl/personen/helmut-seidl/). Before that I was a graduate student in [Max-Planck Institute for Software Systems (MPI-SWS)()] and [Saarland University]().
+Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christakis](https://mariachris.github.io/). I received my PhD from TU Munich, where I was co-advised by [Eva Darulova](https://malyzajko.github.io/) and [Helmut Seidl](https://www.cs.cit.tum.de/pl/personen/helmut-seidl/). Before that I was a graduate student in [Max-Planck Institute for Software Systems (MPI-SWS)](https://mpi-sws.org/) and [Saarland University](https://www.graduateschool-computerscience.de/).
 
 My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, AI stands for abstract interpretation. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
 
+Service
+======
+**Recent/upcoming:** PLDI SRC'24, SAS'24, ASE Tool Demo'24, ISSTA'24 (publicity chair)
+
+Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'23
+
+Teaching
+======
+
+TU Wien
+------
+* Seminar in Software Engineering: SS24, WS24/25
+
+TU Munich
+------
+* Program Optimization: WS18/19, WS19/20, WS20/21, WS21/22, WS22/23
+* Virtual Machines: SS19, SS20, SS21, SS23
+* The Tyranny of Types: Curse or Blessing? (Seminar) SS22
+* Program Synthesis Seminar: SS18, SS19, SS20
+* Introduction to Informatics 2 (WS17/18)
+
+Publications
+======
+* **Scaling up Roundoff Analysis of Functional Data Structure Programs** A.Isychev, E.Darulova, SAS'23
+* **Regime Inference for Sound Floating-Point Optimizations** R.Rabe, A.Izycheva, E.Darulova, EMSOFT'21
+* **Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis** A.Izycheva, E.Darulova, H.Seidl, SAS'20; Recording of the talk
+* **Synthesizing Efficient Low-Precision Kernels** A.Izycheva, E.Darulova, H.Seidl, ATVA'19
+* **Daisy - Framework for Analysis and Optimization of Numerical Programs (Tool Paper)** E.Darulova, A.Izycheva, F.Nasir, F.Ritter, H.Becker, R.Bastian, TACAS'18
+* **On Sound Relative Error Bounds for Floating-Point Arithmetic** A. Izycheva, E. Darulova, FMCAD'17 (extended version on arXiv)
 <!-- 
 A data-driven personal website
 ======
