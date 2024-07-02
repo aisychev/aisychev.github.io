@@ -521,11 +521,11 @@ a.reversefootnote {
   border-radius: 6px;
   font-size: $type-size-6;
 
-  // top: 100%;
-  // left: 50%;
-  // margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
-  top: -5px;
-  left: 105%;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  // top: -5px;
+  // left: 105%;
  
   /* Position the tooltip text - see examples below! */
   position: absolute;
