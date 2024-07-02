@@ -12,7 +12,6 @@
 
   @include clearfix();
   margin-bottom: 1em;
-  width: 25%;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
@@ -80,7 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 45px;
+  width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
 
