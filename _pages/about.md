@@ -29,12 +29,12 @@ Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
-* **Scaling up Roundoff Analysis of Functional Data Structure Programs** A.Isychev, E.Darulova, SAS'23
-* **Regime Inference for Sound Floating-Point Optimizations** R.Rabe, A.Izycheva, E.Darulova, EMSOFT'21
-* **Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis** A.Izycheva, E.Darulova, H.Seidl, SAS'20; Recording of the talk
-* **Synthesizing Efficient Low-Precision Kernels** A.Izycheva, E.Darulova, H.Seidl, ATVA'19
-* **Daisy - Framework for Analysis and Optimization of Numerical Programs (Tool Paper)** E.Darulova, A.Izycheva, F.Nasir, F.Ritter, H.Becker, R.Bastian, TACAS'18
-* **On Sound Relative Error Bounds for Floating-Point Arithmetic** A. Izycheva, E. Darulova, FMCAD'17 (extended version on arXiv)
+* [**Scaling up Roundoff Analysis of Functional Data Structure Programs**]() A.Isychev, E.Darulova, SAS'23
+* [**Regime Inference for Sound Floating-Point Optimizations**](https://dl.acm.org/doi/10.1145/3477012) R.Rabe, A.Izycheva, E.Darulova, EMSOFT'21
+* [**Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis**](https://dl.acm.org/doi/10.1007/978-3-030-65474-0_8) A.Izycheva, E.Darulova, H.Seidl, SAS'20; Recording of the talk
+* [**Synthesizing Efficient Low-Precision Kernels**](https://link.springer.com/chapter/10.1007/978-3-030-31784-3_17) A.Izycheva, E.Darulova, H.Seidl, ATVA'19
+* [**Daisy - Framework for Analysis and Optimization of Numerical Programs (Tool Paper)**](https://link.springer.com/chapter/10.1007/978-3-319-89960-2_15) E.Darulova, A.Izycheva, F.Nasir, F.Ritter, H.Becker, R.Bastian, TACAS'18
+* [**On Sound Relative Error Bounds for Floating-Point Arithmetic**](https://dl.acm.org/citation.cfm?id=3168462) A. Izycheva, E. Darulova, FMCAD'17 (extended version on [arXiv](https://arxiv.org/pdf/1707.02121))
 
 
 <!-- 
