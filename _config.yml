@@ -24,7 +24,7 @@ author:
   avatar           : "anastasia-profile.jpg"
   name             : "Anastasia Isychev"
   pronouns         : # example: "she/her"  
-  bio              : "postdoctoral researcher"
+  bio              : "pronounced like *easychair* with v at the end" #"postdoctoral researcher"
   location         : "Vienna, Austria"
   employer         : "TU Wien"
   uri              : # URL
