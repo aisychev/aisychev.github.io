@@ -21,7 +21,7 @@ repository               : "aisychev/aisychev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "anastasia-profile.jpeg"
+  avatar           : "anastasia-profile.jpg"
   name             : "Anastasia Isychev"
   pronouns         : # example: "she/her"  
   bio              : "postdoctoral researcher"
