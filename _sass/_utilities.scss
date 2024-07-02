@@ -513,16 +513,16 @@ a.reversefootnote {
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
-  background-color: #f2eeed;
+  width: 130px;
+  background-color: #000000;
   opacity: 1;
-  color: #000000;
+  color: #f2eeed;
   text-align: center;
   padding: 5px 0;
   border-radius: 6px;
   font-size: $type-size-6;
 
-  top: 100%;
+  top: -40px;
   left: 50%;
   margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
   // top: -5px;
