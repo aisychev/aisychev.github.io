@@ -9,7 +9,7 @@ redirect_from:
 
 Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christakis](https://mariachris.github.io/). I received my PhD from TU Munich, where I was co-advised by [Eva Darulova](https://malyzajko.github.io/) and [Helmut Seidl](https://www.cs.cit.tum.de/pl/personen/helmut-seidl/). Before that I was a graduate student in [Max-Planck Institute for Software Systems (MPI-SWS)](https://mpi-sws.org/) and [Saarland University](https://www.graduateschool-computerscience.de/).
 
-My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, AI stands for abstract interpretation. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
+My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
 
 # Service
 **Recent / upcoming:** PLDI SRC'24, SAS'24, ASE Tool Demo'24, ISSTA'24 (publicity chair)
@@ -17,10 +17,8 @@ My research interests span over various topics in formal methods and software en
 Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'23
 
 # Teaching
-
 ## TU Wien
 * Seminar in Software Engineering: SS24, WS24/25
-
 ## TU Munich
 * Program Optimization: WS18/19, WS19/20, WS20/21, WS21/22, WS22/23
 * Virtual Machines: SS19, SS20, SS21, SS23
