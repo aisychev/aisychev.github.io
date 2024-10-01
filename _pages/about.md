@@ -28,8 +28,8 @@ Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
-* [**Interrogation Testing of Program Analyzers for Soundness and Precision Issues**](https://aisychev.github.io/files/ase24-sherlock.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
-* [**Constraint-Based Test Oracles for Program Analyzers**](https://aisychev.github.io/files/ase24-minotaur.pdf) M.Fleischmann, D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
+* [**Interrogation Testing of Program Analyzers for Soundness and Precision Issues**](https://aisychev.github.io/papers/ase24-sherlock.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
+* [**Constraint-Based Test Oracles for Program Analyzers**](https://aisychev.github.io/papers/ase24-minotaur.pdf) M.Fleischmann, D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
 * [**Scaling up Roundoff Analysis of Functional Data Structure Programs**](https://dl.acm.org/doi/10.1007/978-3-031-44245-2_17) A.Isychev, E.Darulova, SAS'23
 * [**Regime Inference for Sound Floating-Point Optimizations**](https://dl.acm.org/doi/10.1145/3477012) R.Rabe, A.Izycheva, E.Darulova, EMSOFT'21
 * [**Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis**](https://dl.acm.org/doi/10.1007/978-3-030-65474-0_8) A.Izycheva, E.Darulova, H.Seidl, SAS'20; Recording of the talk
