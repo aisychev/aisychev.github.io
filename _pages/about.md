@@ -38,6 +38,10 @@ Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'
 * [**On Sound Relative Error Bounds for Floating-Point Arithmetic**](https://dl.acm.org/citation.cfm?id=3168462) A. Izycheva, E. Darulova, FMCAD'17 (extended version on [arXiv](https://arxiv.org/pdf/1707.02121))
 
 
+# Theses
+* Doctoral Thesis @ TU Munich [**Improving Analysis and Optimization of Finite-Precision Programs**](https://aisychev.github.io/papers/Anastasia-Isychev-dissertation.pdf)
+* Master Thesis @ MPI-SWS and UdS [**Estimation of Relative Error Bounds for Floating-Point Arithmetic Expressions**](https://aisychev.github.io/papers/Anastasia-Isychev-mscthesis.pdf)
+
 <!-- 
 A data-driven personal website
 ======
