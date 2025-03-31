@@ -12,13 +12,13 @@ Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christ
 My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
 
 # Service
-**Recent / upcoming:** CAV'25, PLDI SRC'24, SAS'24, ASE Tool Demo'24, ISSTA'24 (publicity chair)
+**Recent / upcoming:** FLoC 2026 Mentoring Workshop (co-organizer), OOPSLA'26, CAV'25, PLDI SRC'24, SAS'24, ASE Tool Demo'24, ISSTA'24 (publicity chair)
 
 Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'23
 
 # Teaching
 ## TU Wien
-* Seminar in Software Engineering: SS24, WS24/25
+* Seminar in Software Engineering: SS24, WS24/25, SS25
 
 ## TU Munich
 * Program Optimization: WS18/19, WS19/20, WS20/21, WS21/22, WS22/23
@@ -28,6 +28,7 @@ Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
+* **Fuzzing Processing Pipelines for Zero-Knowledge Circuits** C. Hochrainer, A. Isychev, V. Wüstholz, M. Christakis, CCS'25 *(accepted to appear)*
 * [**Interrogation Testing of Program Analyzers for Soundness and Precision Issues**](https://aisychev.github.io/papers/ase24-sherlock.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
 * [**Constraint-Based Test Oracles for Program Analyzers**](https://aisychev.github.io/papers/ase24-minotaur.pdf) M.Fleischmann, D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
 * [**Scaling up Roundoff Analysis of Functional Data Structure Programs**](https://dl.acm.org/doi/10.1007/978-3-031-44245-2_17) A.Isychev, E.Darulova, SAS'23
