@@ -28,7 +28,7 @@ Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
-* **Lazy Testing of Machine-Learning Models** A. Isychev, V. Wüstholz, M. Christakis, IJCAI'25 *(accepted to appear)*
+* [**Lazy Testing of Machine-Learning Models**](https://aisychev.github.io/papers/ijcai25-laz.pdf) A. Isychev, V. Wüstholz, M. Christakis, IJCAI'25 *(accepted to appear)*
 * **Fuzzing Processing Pipelines for Zero-Knowledge Circuits** C. Hochrainer, A. Isychev, V. Wüstholz, M. Christakis, CCS'25 *(accepted to appear)*
 * [**Interrogation Testing of Program Analyzers for Soundness and Precision Issues**](https://aisychev.github.io/papers/ase24-sherlock.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
 * [**Constraint-Based Test Oracles for Program Analyzers**](https://aisychev.github.io/papers/ase24-minotaur.pdf) M.Fleischmann, D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
