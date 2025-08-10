@@ -28,9 +28,9 @@ Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
-* [**Using Action-Policy Testing in RL to Reduce the Number of Bugs**](https://aisychev.github.io/papers/socs25-retraining.pdf) H.F. Eniser, S. Lin, N. Müller, A. Isychev, V. Wüstholz, I. Valera, J. Hoffmann, M. Christakis, SoCS'25 *(accepted to appear)*
-* [**Lazy Testing of Machine-Learning Models**](https://aisychev.github.io/papers/ijcai25-laz.pdf) A. Isychev, V. Wüstholz, M. Christakis, IJCAI'25 *(accepted to appear)*
-* **Fuzzing Processing Pipelines for Zero-Knowledge Circuits** C. Hochrainer, A. Isychev, V. Wüstholz, M. Christakis, CCS'25 *(accepted to appear)*
+* [**Using Action-Policy Testing in RL to Reduce the Number of Bugs**](https://aisychev.github.io/papers/socs25-retraining.pdf) H.F. Eniser, S. Lin, N. Müller, A. Isychev, V. Wüstholz, I. Valera, J. Hoffmann, M. Christakis, SoCS'25
+* [**Lazy Testing of Machine-Learning Models**](https://aisychev.github.io/papers/ijcai25-laz.pdf) A. Isychev, V. Wüstholz, M. Christakis, IJCAI'25 
+* [**Fuzzing Processing Pipelines for Zero-Knowledge Circuits**](https://aisychev.github.io/papers/ccs25-circuzz.pdf) C. Hochrainer, A. Isychev, V. Wüstholz, M. Christakis, CCS'25
 * [**Interrogation Testing of Program Analyzers for Soundness and Precision Issues**](https://aisychev.github.io/papers/ase24-sherlock.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
 * [**Constraint-Based Test Oracles for Program Analyzers**](https://aisychev.github.io/papers/ase24-minotaur.pdf) M.Fleischmann, D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
 * [**Scaling up Roundoff Analysis of Functional Data Structure Programs**](https://dl.acm.org/doi/10.1007/978-3-031-44245-2_17) A.Isychev, E.Darulova, SAS'23
