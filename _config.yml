@@ -27,6 +27,7 @@ author:
   bio              : "pronounced like easychair<br>with v at the end " #"postdoctoral researcher"
   location         : "Vienna, Austria"
   employer         : "TU Wien"
+  cv               : true
   uri              : # URL
   email            : "anastasia.isychev@tuwien.ac.at" 
 
