@@ -28,6 +28,7 @@ Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
+* **Interrogation Testing of CHC Solvers** D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, FSE'26 (*accepted to appear*)
 * [**Cost of Soundness in Mixed-Precision Tuning**](https://aisychev.github.io/papers/oopsla25-cos.pdf) A. Isychev, D.Lohar, OOPSLA'25
 * [**Using Action-Policy Testing in RL to Reduce the Number of Bugs**](https://aisychev.github.io/papers/socs25-retraining.pdf) H.F. Eniser, S. Lin, N. Müller, A. Isychev, V. Wüstholz, I. Valera, J. Hoffmann, M. Christakis, SoCS'25
 * [**Lazy Testing of Machine-Learning Models**](https://aisychev.github.io/papers/ijcai25-laz.pdf) A. Isychev, V. Wüstholz, M. Christakis, IJCAI'25 
