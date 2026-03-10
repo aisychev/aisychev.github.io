@@ -12,13 +12,14 @@ Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christ
 My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
 
 # Service
-**Recent / upcoming:** FLoC 2026 Mentoring Workshop (co-organizer), OOPSLA'26, CAV'25, PLDI SRC'24, SAS'24, ASE Tool Demo'24, ISSTA'24 (publicity chair)
+**Recent / upcoming:** FLoC 2026 Mentoring Workshop (co-organizer), OOPSLA'26, CAV'25 
 
-Older: SAS'20 (subreview), FAOC Journal'21, AEC @ POPL'21, CAV'21, CGO'22, PLDI'23
+Older: PLDI SRC'24, SAS'24, ASE Tool Demo'24, ISSTA'24 (publicity chair), FAOC Journal'21, SAS'20 (subreview), AEC @ POPL'21, CAV'21, CGO'22, PLDI'23
 
 # Teaching
 ## TU Wien
-* Seminar in Software Engineering: SS24, WS24/25, SS25
+* Seminar in Software Engineering: SS24, WS24/25, SS25, WS 25/26
+* Advanced Software Engineering WS25/26 - *guest lecture*
 
 ## TU Munich
 * Program Optimization: WS18/19, WS19/20, WS20/21, WS21/22, WS22/23
