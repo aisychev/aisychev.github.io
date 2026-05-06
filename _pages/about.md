@@ -12,7 +12,7 @@ Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christ
 My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
 
 # News
-<!--* Our paper "Testing Static Taint Analyzers with Equivalence Modulo Taint" was accepted to ISSTA'26!-->
+
 * I will be visiting [Caterina Urban](https://caterinaurban.github.io/)@Inria Paris and [Raphaël Monat](https://rmonat.fr/)@Inria Lille in June 2026.
 * I gave a talk about our work on the [Cost of Soundness in Mixed-Precision Tuning](https://dl.acm.org/doi/10.1145/3763137) at the [FPTalks series](https://fptalks.org/index.html) on April 2.
 * I am co-organising [FLoC'26 Mentoring Workshop](https://www.floc26.org/mentoring-workshop), looking forward to see you in Lisbon!
@@ -49,7 +49,7 @@ td, th {
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
-* **Interrogation Testing of CHC Solvers** D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, FSE'26 
+* [**Interrogation Testing of CHC Solvers**](https://aisychev.github.io/papers/fse26-horngator.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, FSE'26 
 * [**Cost of Soundness in Mixed-Precision Tuning**](https://aisychev.github.io/papers/oopsla25-cos.pdf) A. Isychev, D.Lohar, OOPSLA'25
 * [**Using Action-Policy Testing in RL to Reduce the Number of Bugs**](https://aisychev.github.io/papers/socs25-retraining.pdf) H.F. Eniser, S. Lin, N. Müller, A. Isychev, V. Wüstholz, I. Valera, J. Hoffmann, M. Christakis, SoCS'25
 * [**Lazy Testing of Machine-Learning Models**](https://aisychev.github.io/papers/ijcai25-laz.pdf) A. Isychev, V. Wüstholz, M. Christakis, IJCAI'25 
