@@ -12,7 +12,7 @@ Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christ
 My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
 
 # News
-
+* I will give an invited talk about testing program analyzers at [Helmutfest](https://helmutfest.github.io/).
 * I will be visiting [Caterina Urban](https://caterinaurban.github.io/)@Inria Paris and [Raphaël Monat](https://rmonat.fr/)@Inria Lille in June 2026.
 * I gave a talk about our work on the [Cost of Soundness in Mixed-Precision Tuning](https://dl.acm.org/doi/10.1145/3763137) at the [FPTalks series](https://fptalks.org/index.html) on April 2.
 * I am co-organising [FLoC'26 Mentoring Workshop](https://www.floc26.org/mentoring-workshop), looking forward to see you in Lisbon!
