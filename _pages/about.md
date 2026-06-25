@@ -12,6 +12,7 @@ Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christ
 My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
 
 # News
+* Our paper "Testing Static Taint Analyzers with Equivalence Modulo Taint" is accepted to ISSTA'26!
 * I will give an invited talk about testing program analyzers at [Helmutfest](https://helmutfest.github.io/).
 * I will be visiting [Caterina Urban](https://caterinaurban.github.io/)@Inria Paris and [Raphaël Monat](https://rmonat.fr/)@Inria Lille in June 2026.
 * I gave a talk about our work on the [Cost of Soundness in Mixed-Precision Tuning](https://dl.acm.org/doi/10.1145/3763137) at the [FPTalks series](https://fptalks.org/index.html) on April 2.
@@ -49,19 +50,20 @@ td, th {
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
-* [**Interrogation Testing of CHC Solvers**](https://aisychev.github.io/papers/fse26-horngator.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, FSE'26 
-* [**Cost of Soundness in Mixed-Precision Tuning**](https://aisychev.github.io/papers/oopsla25-cos.pdf) A. Isychev, D.Lohar, OOPSLA'25
-* [**Using Action-Policy Testing in RL to Reduce the Number of Bugs**](https://aisychev.github.io/papers/socs25-retraining.pdf) H.F. Eniser, S. Lin, N. Müller, A. Isychev, V. Wüstholz, I. Valera, J. Hoffmann, M. Christakis, SoCS'25
-* [**Lazy Testing of Machine-Learning Models**](https://aisychev.github.io/papers/ijcai25-laz.pdf) A. Isychev, V. Wüstholz, M. Christakis, IJCAI'25 
-* [**Fuzzing Processing Pipelines for Zero-Knowledge Circuits**](https://aisychev.github.io/papers/ccs25-circuzz.pdf) C. Hochrainer, A. Isychev, V. Wüstholz, M. Christakis, CCS'25
-* [**Interrogation Testing of Program Analyzers for Soundness and Precision Issues**](https://aisychev.github.io/papers/ase24-sherlock.pdf) D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
-* [**Constraint-Based Test Oracles for Program Analyzers**](https://aisychev.github.io/papers/ase24-minotaur.pdf) M.Fleischmann, D.Kaindlstorfer, A.Isychev, V.Wüstholz, M.Christakis, ASE'24
-* [**Scaling up Roundoff Analysis of Functional Data Structure Programs**](https://dl.acm.org/doi/10.1007/978-3-031-44245-2_17) A.Isychev, E.Darulova, SAS'23
-* [**Regime Inference for Sound Floating-Point Optimizations**](https://dl.acm.org/doi/10.1145/3477012) R.Rabe, A.Izycheva, E.Darulova, EMSOFT'21
-* [**Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis**](https://dl.acm.org/doi/10.1007/978-3-030-65474-0_8) A.Izycheva, E.Darulova, H.Seidl, SAS'20; [Recording of the talk](https://youtu.be/YJI_Lo0CAuI?si=cMqgXPcUogNSYz9P)
-* [**Synthesizing Efficient Low-Precision Kernels**](https://link.springer.com/chapter/10.1007/978-3-030-31784-3_17) A.Izycheva, E.Darulova, H.Seidl, ATVA'19
-* [**Daisy - Framework for Analysis and Optimization of Numerical Programs (Tool Paper)**](https://link.springer.com/chapter/10.1007/978-3-319-89960-2_15) E.Darulova, A.Izycheva, F.Nasir, F.Ritter, H.Becker, R.Bastian, TACAS'18
-* [**On Sound Relative Error Bounds for Floating-Point Arithmetic**](https://dl.acm.org/citation.cfm?id=3168462) A. Izycheva, E. Darulova, FMCAD'17 (extended version on [arXiv](https://arxiv.org/pdf/1707.02121))
+* **Testing Static Taint Analyzers with Equivalence Modulo Taint** Maria Christakis, *Anastasia Isychev*, Samuel Pilz, Florian Tesarek, Valentin Wüstholz, ISSTA'26 
+* [**Interrogation Testing of CHC Solvers**](https://aisychev.github.io/papers/fse26-horngator.pdf) David Kaindlstorfer, *Anastasia Isychev*, Valentin Wüstholz, Maria Christakis, FSE'26 
+* [**Cost of Soundness in Mixed-Precision Tuning**](https://aisychev.github.io/papers/oopsla25-cos.pdf) *Anastasia Isychev*, Debasmita Lohar, OOPSLA'25
+* [**Using Action-Policy Testing in RL to Reduce the Number of Bugs**](https://aisychev.github.io/papers/socs25-retraining.pdf) Hasan Ferit Eniser, Songtuan Lin, Nicola Muller, *Anastasia Isychev*, Valentin Wustholz, Isabel Valera, Jorg Hoffmann, Maria Christakis, SoCS'25
+* [**Lazy Testing of Machine-Learning Models**](https://aisychev.github.io/papers/ijcai25-laz.pdf) *Anastasia Isychev*, Valentin Wüstholz, Maria Christakis, IJCAI'25 
+* [**Fuzzing Processing Pipelines for Zero-Knowledge Circuits**](https://aisychev.github.io/papers/ccs25-circuzz.pdf) Christoph Hochrainer, *Anastasia Isychev*, Valentin Wüstholz, Maria Christakis, CCS'25
+* [**Interrogation Testing of Program Analyzers for Soundness and Precision Issues**](https://aisychev.github.io/papers/ase24-sherlock.pdf) David Kaindlstorfer, *Anastasia Isychev*, Valentin Wüstholz, Maria Christakis, ASE'24
+* [**Constraint-Based Test Oracles for Program Analyzers**](https://aisychev.github.io/papers/ase24-minotaur.pdf) Markus Fleischmann, David Kaindlstorfer, *Anastasia Isychev*, Valentin Wüstholz, Maria Christakis, ASE'24
+* [**Scaling up Roundoff Analysis of Functional Data Structure Programs**](https://dl.acm.org/doi/10.1007/978-3-031-44245-2_17) *Anastasia Isychev*, Eva Darulova, SAS'23
+* [**Regime Inference for Sound Floating-Point Optimizations**](https://dl.acm.org/doi/10.1145/3477012) Robert Rabe, *Anastasiia Izycheva*, Eva Darulova, EMSOFT'21
+* [**Counterexample- and Simulation-Guided Floating-Point Loop Invariant Synthesis**](https://dl.acm.org/doi/10.1007/978-3-030-65474-0_8) *Anastasiia Izycheva*, Eva Darulova, Helmut Seidl, SAS'20; [Recording of the talk](https://youtu.be/YJI_Lo0CAuI?si=cMqgXPcUogNSYz9P)
+* [**Synthesizing Efficient Low-Precision Kernels**](https://link.springer.com/chapter/10.1007/978-3-030-31784-3_17) *Anastasiia Izycheva*, Eva Darulova, Helmut Seidl, ATVA'19
+* [**Daisy - Framework for Analysis and Optimization of Numerical Programs (Tool Paper)**](https://link.springer.com/chapter/10.1007/978-3-319-89960-2_15) Eva Darulova, *Anastasiia Izycheva*, Fariha Nasir, Fabian Ritter, Heiko Becker, Robert Bastian, TACAS'18
+* [**On Sound Relative Error Bounds for Floating-Point Arithmetic**](https://dl.acm.org/citation.cfm?id=3168462) *Anastasiia Izycheva*, Eva Darulova, FMCAD'17 (extended version on [arXiv](https://arxiv.org/pdf/1707.02121))
 
 
 # Theses
