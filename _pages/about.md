@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Since November 2023 I am a postdoctoral researcher at TU Wien with [Maria Christakis](https://mariachris.github.io/). I received my PhD from TU Munich, where I was co-advised by [Eva Darulova](https://malyzajko.github.io/) and [Helmut Seidl](https://www.cs.cit.tum.de/pl/personen/helmut-seidl/). Before that I was a graduate student in [Max-Planck Institute for Software Systems (MPI-SWS)](https://mpi-sws.org/) and [Saarland University](https://www.graduateschool-computerscience.de/).
+I am a lecturer at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), [University of Sydney](https://www.sydney.edu.au/). Earlier, I was a postdoctoral researcher at TU Wien with [Maria Christakis](https://mariachris.github.io/) and received my PhD from TU Munich, where I was co-advised by [Eva Darulova](https://malyzajko.github.io/) and [Helmut Seidl](https://www.cs.cit.tum.de/pl/personen/helmut-seidl/). Before that I was a graduate student in [Max-Planck Institute for Software Systems (MPI-SWS)](https://mpi-sws.org/) and [Saarland University](https://www.graduateschool-computerscience.de/).
 
-My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. During my PhD, I focused on analysing and optimising numerical programs, now exploring new domains. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable.
+My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable. 
 
 # News
-* Our paper "Testing Static Taint Analyzers with Equivalence Modulo Taint" is accepted to ISSTA'26!
-* I will give an invited talk about testing program analyzers at [Helmutfest](https://helmutfest.github.io/).
-* I will be visiting [Caterina Urban](https://caterinaurban.github.io/)@Inria Paris and [Raphaël Monat](https://rmonat.fr/)@Inria Lille in June 2026.
+* From Austria to Australia. I joined the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/) as a lecturer in August 2026. 
+* I am on the program committee of [VMCAI'27](https://conf.researchr.org/home/VMCAI-2027).
+* Our paper "Testing Static Taint Analyzers with Equivalence Modulo Taint" is accepted to ISSTA'26.
+* I gave an invited talk about testing program analyzers at [Helmutfest](https://helmutfest.github.io/).
+* I was visiting [Caterina Urban](https://caterinaurban.github.io/)@Inria Paris and [Raphaël Monat](https://rmonat.fr/)@Inria Lille in June 2026.
 * I gave a talk about our work on the [Cost of Soundness in Mixed-Precision Tuning](https://dl.acm.org/doi/10.1145/3763137) at the [FPTalks series](https://fptalks.org/index.html) on April 2.
-* I am co-organising [FLoC'26 Mentoring Workshop](https://www.floc26.org/mentoring-workshop), looking forward to see you in Lisbon!
+* I co-organised [FLoC'26 Mentoring Workshop](https://www.floc26.org/mentoring-workshop) in Lisbon. Big thanks to all participants!
 
 # Service
 
@@ -29,6 +31,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2027 | VMCAI (PC) |
 | 2026 | FLoC Mentoring Workshop (co-organizer), OOPSLA (PC), FAC Journal (Reviewer) |
 | 2025 | CAV (PC) |
 | 2024 | PLDI SRC, SAS, ASE Tool Demo (PC), ISSTA'24 (publicity chair) |

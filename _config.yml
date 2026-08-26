@@ -25,11 +25,11 @@ author:
   name             : "Anastasia Isychev"
   pronouns         : # example: "she/her"  
   bio              : "pronounced like easychair<br>with v at the end " #"postdoctoral researcher"
-  location         : "Vienna, Austria"
-  employer         : "TU Wien"
+  location         : "Sydney, Australia"
+  employer         : "University of Sydney"
   cv               : true
   uri              : # URL
-  email            : "anastasia.isychev@tuwien.ac.at" 
+  email            : "anastasia.isychev@sydney.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
