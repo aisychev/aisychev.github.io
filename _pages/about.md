@@ -12,7 +12,7 @@ I am a lecturer at the [School of Computer Science](https://www.sydney.edu.au/en
 My research interests span over various topics in formal methods and software engineering. I am passionate about static analysis, in my book, *AI stands for abstract interpretation*. I am curious about program synthesis, optimization, repair and testing and how they can help make software reliable and understandable. 
 
 # News
-* From Austria to Australia. I joined the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/) as a lecturer in August 2026. 
+* From Austria to Australia: I joined the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/) as a lecturer in August 2026. 
 * I am on the program committee of [VMCAI'27](https://conf.researchr.org/home/VMCAI-2027).
 * Our paper "Testing Static Taint Analyzers with Equivalence Modulo Taint" is accepted to ISSTA'26.
 * I gave an invited talk about testing program analyzers at [Helmutfest](https://helmutfest.github.io/).
@@ -53,7 +53,7 @@ td, th {
 * Introduction to Informatics 2 (WS17/18)
 
 # Publications
-* **Testing Static Taint Analyzers with Equivalence Modulo Taint** Maria Christakis, *Anastasia Isychev*, Samuel Pilz, Florian Tesarek, Valentin Wüstholz, ISSTA'26 
+* [**Testing Static Taint Analyzers with Equivalence Modulo Taint**](https://aisychev.github.io/papers/issta26-taintcc.pdf) Maria Christakis, *Anastasia Isychev*, Samuel Pilz, Florian Tesarek, Valentin Wüstholz, ISSTA'26 
 * [**Interrogation Testing of CHC Solvers**](https://aisychev.github.io/papers/fse26-horngator.pdf) David Kaindlstorfer, *Anastasia Isychev*, Valentin Wüstholz, Maria Christakis, FSE'26 
 * [**Cost of Soundness in Mixed-Precision Tuning**](https://aisychev.github.io/papers/oopsla25-cos.pdf) *Anastasia Isychev*, Debasmita Lohar, OOPSLA'25
 * [**Using Action-Policy Testing in RL to Reduce the Number of Bugs**](https://aisychev.github.io/papers/socs25-retraining.pdf) Hasan Ferit Eniser, Songtuan Lin, Nicola Muller, *Anastasia Isychev*, Valentin Wustholz, Isabel Valera, Jorg Hoffmann, Maria Christakis, SoCS'25
